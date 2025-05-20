@@ -30,5 +30,5 @@ Amazon'dan toplanan ürün yorumları üzerinde tokenization, temizleme, lemmati
 | Model               | Doğruluk | 
 |---------------------|----------|
 | Logistic Regression | 89%      | 
-| Naive Bayes         | 91%      | 
+| Random Forest       | 91%      | 
 
